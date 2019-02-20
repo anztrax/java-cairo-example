@@ -1,6 +1,6 @@
-#java cairo graphics : 
+# java cairo graphics : 
 
-##how to run : 
+## how to run : 
 because there's no official maven repo for cairo, so we must added manually 
 
 - prerequisite :
@@ -9,7 +9,7 @@ because there's no official maven repo for cairo, so we must added manually
   2. install cairo java library (jar)
       - ```sudo apt-get install libjava-gnome-java```  [link](https://www.cairographics.org/cairo-java/)
      
--add jar to intellij idea :
+- add jar to intellij idea :
   1. menu bar : file -> project structure -> modules --> maven --> maven_main 
   2. go to depedencies tab 
   3. click + sign 
